@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Nolber",
+    "apellido": "Román",
+    "email": "nromanl@gmail.com",
+    "carnet": "071107",
+    "notas": {
+      "Historia": [
+        15
+      ]
+    },
+    "materias": [
+      "Historia"
+    ]
+  }
+]
